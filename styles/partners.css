@@ -1,0 +1,23 @@
+.partners{
+    padding: 120px 0;
+}
+
+.partners__title{
+    color: #101010;
+    margin: 0 0 56px;
+}
+
+.partners__wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
+
+.partners__link{
+    border: 1px solid #c7c7c7;
+    padding: 34px;
+}
+
+.partners__logo{
+    margin: 0 auto;
+}
