@@ -1,6 +1,49 @@
+.event__info-city {
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 120%;
+  letter-spacing: -0.02em;
+  color: #101010;
+}
+.event__info-date {
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 120%;
+  letter-spacing: -0.02em;
+  color: #101010;
+}
+.event__info-time {
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 120%;
+  letter-spacing: -0.02em;
+  color: #101010;
+}
+.event__info-button {
+  border-radius: 4px;
+  padding: 16px 125px;
+  color: white;
+  background-color: black;
+
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 222%;
+  letter-spacing: -0.01em;
+  text-align: center;
+  color: #fff;
+
+  margin-top: 58px;
+}
+.event__info-img {
+  margin-top: 56px;
+  margin-bottom: 96px;
+}
+/* ------------------------ */
 .event__content {
   display: flex;
   gap: 40px;
+  padding-bottom: 96px;
+  border-bottom: 1px solid #101010;
 }
 .event__content-card-num {
   font-weight: 600;
