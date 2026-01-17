@@ -1,9 +1,36 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
 .container {
-  max-width: 910px;
-  margin: 0 auto;
+    margin: 0 auto;
+    max-width: 1916px;
+    padding: 0 649px 0 347px;
+}
+
+.num-section{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 120%;
+    margin-left: 8px;
+}
+
+.num-section--white{
+    color: #fff;
+}
+
+.title-section{
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 110%;
+    letter-spacing: -0.04em;
+}
+
+.title-section--white{
+    color: #fff;
+
 }
